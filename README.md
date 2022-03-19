@@ -2,7 +2,7 @@
 
 I'm an undergraduate student studying computational complexity.
 
-I've participated in programming competitions in the past.
+I've participated in programming competitions in the past. (Contestants get a cup when getting 1st/2nd/3rd place.)
 
 - 2020 CCF CCSP 1st place 🏆🏅️
 - 2020 CCPC **Finals** 3rd place 🏆🏅️
