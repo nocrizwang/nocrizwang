@@ -11,4 +11,4 @@ I've participated in programming competitions in the past. (Teams get a cup when
 - 2020 CCPC Weihai site 4th place 🏅️
 - 2019 CCPC Harbin site 3rd place 🏆🏅️
 - 6 more gold medals at ICPC EC-final/other regionals 🏅️🏅️🏅️🏅️🏅️🏅️
-- 3 more provincial/invitational champions 🏆🏆🏆
+- 3 more ICPC invitational/provincial contest champions 🏆🏆🏆
